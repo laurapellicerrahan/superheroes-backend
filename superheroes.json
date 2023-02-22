@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name":"Batman", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Bruce Wayne",
+        "first_appearance":"Detective Comics #27",
+        "image": "https://dam.smashmexico.com.mx/wp-content/uploads/2020/04/ayuda-a-tu-pequeno-a-hacer-el-cinturon-de-batman-cover.jpg",
+        "characters":"Bruce Wayne"
+    },
+    {
+        "id": 2,
+        "name":"Superman", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Kal-El",
+        "first_appearance":"Action Comics #1",
+        "image": "https://www.looper.com/img/gallery/dc-lied-to-you-about-superman/intro-1610407299.jpg",
+        "characters":"Kal-El"
+    },
+    {
+        "id": 3,
+        "name":"Flash", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Jay Garrick",
+        "first_appearance":"Flash Comics #1",
+        "image": "https://blablaocio.com/wp-content/uploads/sites/7/2016/11/FLASH-EL-COMIC-1.jpg",
+        "characters":"Jay Garrick, Barry Allen, Wally West, Bart Allen"
+    },
+    {
+        "id": 4,
+        "name":"Green Lantern", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Alan Scott",
+        "first_appearance":"All-American Comics #16",
+        "image": "https://www.saladepeligro.com/wp-content/uploads/2020/07/the-green-lantern-grant-morrison-1.jpg",
+        "characters":"Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
+    },
+    {
+        "id": 5,
+        "name":"Green Arrow", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Oliver Queen",
+        "first_appearance":"More Fun Comics #73",
+        "image": "https://i.pinimg.com/736x/0f/6e/8a/0f6e8a14d6885703321a9a61dbfb27e4.jpg",
+        "characters":"Oliver Queen"
+    },
+    {
+        "id": 6,
+        "name":"Wonder Woman", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Princess Diana",
+        "first_appearance":"All Star Comics #8",
+        "image": "https://www.focusjunior.it/content/uploads/2021/11/Cattura.jpg",
+        "characters":"Princess Diana"
+    },
+    {
+        "id": 7,
+        "name":"Martian Manhunter", 
+        "publisher":"DC Comics", 
+        "alter_ego":"J'onn J'onzz",
+        "first_appearance":"Detective Comics #225",
+        "image": "https://pm1.narvii.com/6363/d57b725eb49ad2bc2d9a1109c48e27297157eec4_hq.jpg",
+        "characters":"Martian Manhunter"
+    },
+    {
+        "id": 8,
+        "name":"Robin/Nightwing", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Dick Grayson",
+        "first_appearance":"Detective Comics #38",
+        "image": "https://img2.goodfon.com/wallpaper/nbig/5/f1/red-robin-tim-drake-dc-comics.jpg",
+        "characters":"Dick Grayson"
+    },
+    {
+        "id": 9,
+        "name":"Blue Beetle", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Dan Garret",
+        "first_appearance":"Mystery Men Comics #1",
+        "image": "https://tecolotito.elsiglodedurango.com.mx/i/2021/02/958201.jpeg",
+        "characters":"Dan Garret, Ted Kord, Jaime Reyes"
+    },
+    {
+        "id": 10,
+        "name":"Black Canary", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Dinah Drake",
+        "first_appearance":"Flash Comics #86",
+        "image": "https://i.pinimg.com/originals/52/5e/52/525e5267f6a0b87847fa834d76efb2c9.jpg",
+        "characters":"Dinah Drake, Dinah Lance"
+    },
+    {
+        "id": 11,
+        "name":"Spider Man", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Peter Parker",
+        "first_appearance":"Amazing Fantasy #15",
+        "image": "https://uvn-brightspot.s3.amazonaws.com/assets/vixes/n/non_stop_spiderman_marvel_comics.jpg",
+        "characters":"Peter Parker"
+    },
+    {
+        "id": 12,
+        "name":"Captain America", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Steve Rogers",
+        "first_appearance":"Captain America Comics #1",
+        "image": "https://static.posters.cz/image/1300/posters/captain-america-under-fire-i127942.jpg",
+        "characters":"Steve Rogers"
+    },
+    {
+        "id": 13,
+        "name":"Iron Man", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Tony Stark",
+        "first_appearance":"Tales of Suspense #39",
+        "image": "https://playcontestofchampions.com/wp-content/uploads/2021/11/champion-iron-man-infinity-war-720x720.jpg",
+        "characters":"Tony Stark"
+    },
+    {
+        "id": 14,
+        "name":"Thor", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Thor Odinson",
+        "first_appearance":"Journey into Myster #83",
+        "image": "https://i.pinimg.com/originals/c6/72/3d/c6723d9a62ec96ed6618a1eac3ca9bd2.jpg",
+        "characters":"Thor Odinson"
+    },
+    {
+        "id": 15,
+        "name":"Hulk", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Bruce Banner",
+        "first_appearance":"The Incredible Hulk #1",
+        "image": "https://www.mejoreslibros.top/wp-content/uploads/2020/11/hulk-600x338.jpg",
+        "characters":"Bruce Banner"
+    },
+    {
+        "id": 16,
+        "name":"Wolverine", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"James Howlett",
+        "first_appearance":"The Incredible Hulk #180",
+        "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2020/09/hipertextual-2020824616.jpg",
+        "characters":"James Howlett"
+    },
+    {
+        "id": 17,
+        "name":"Daredevil", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Matthew Michael Murdock",
+        "first_appearance":"Daredevil #1",
+        "image": "https://i.pinimg.com/564x/c3/ce/94/c3ce94d531dc6b3b6a66e4f3403c84fe.jpg",
+        "characters":"Matthew Michael Murdock"
+    },
+    {
+        "id": 18,
+        "name":"Hawkeye", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Clinton Francis Barton",
+        "first_appearance":"Tales of Suspense #57",
+        "image": "https://www.writeups.org/wp-content/uploads/Hawkeye-Ultimate-Marvel-Comics-c.jpg",
+        "characters":"Clinton Francis Barton"
+    },
+    {
+        "id": 19,
+        "name":"Cyclops", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Scott Summers",
+        "first_appearance":"X-Men #1",
+        "image": "https://i.redd.it/hpal8yahqun71.jpg",
+        "characters":"Scott Summers"
+    },
+    {
+        "id": 20,
+        "name":"Silver Surfer", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Norrin Radd",
+        "first_appearance":"The Fantastic Four #48",
+        "image": "https://64.media.tumblr.com/eb7f252b57345a049d1bf08ddf50357f/c0f4f98e684608e7-13/s1280x1920/4af74c1fa4722ebe108c34233681566cf0ca2396.jpg",
+        "characters":"Norrin Radd"
+    }
+]
